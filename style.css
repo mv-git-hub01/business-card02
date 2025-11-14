@@ -1,0 +1,39 @@
+body{
+	margin:50px;
+}
+img{
+	width:200px;
+	
+}
+.card{
+	color:#0c0e0e;
+	font-family:Trebuchet MS;
+}
+.businessCard{
+	width:400px;
+	display:flex;
+	justify-content:space-around;
+	margin:0 auto;
+	
+	text-align:center;
+	
+	border:5px dotted #0c4b92;
+	border-radius:5px;
+	
+	background:#a4b4d8;
+	
+	padding:20px;
+}
+h3:hover{
+	text-shadow:0 0 1px black;
+	background-color:#dee7f4;
+}
+p:hover{
+	text-shadow:0 0 1px black;
+	font-style:italic;
+	background-color:#ebf2f8;
+}
+h4:hover{
+	text-shadow:0 0 1px black;
+	background-color:#e2eaf4;
+}
